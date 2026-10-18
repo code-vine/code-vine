@@ -1,15 +1,16 @@
+👋 Hello:<br>
 I build software, simulations, and games focused on emergence, scale, and long-term systems design.
 
-🚀 What I'm Working On
-Building scalable backend infrastructure and web applications
-Exploring AI-driven tools and procedural generation
+🚀 What I'm Working On:<br>
+Building scalable backend infrastructure and web applications<br>
 
-🛠 Core Technologies
+🛠 Core Technologies:<br>
 C# • Unity • Node.js • JavaScript • SQL • Git
 
-🎮 Interests
-Software architecture and system design
-Simulation and strategy game development
-Procedural world generation
-AI and emergent behaviors
+🎮 Interests:<br>
+Web Applications<br>
+AI and emergent behaviors<br>
+Procedural world generation<br>
+Software architecture and system design<br>
+Simulation and strategy game development<br>
 
