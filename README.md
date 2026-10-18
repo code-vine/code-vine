@@ -1,16 +1,15 @@
-## Hi there 👋
+I build software, simulations, and games focused on emergence, scale, and long-term systems design.
 
-<!--
-**code-vine/code-vine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
+Building scalable backend infrastructure and web applications
+Exploring AI-driven tools and procedural generation
 
-Here are some ideas to get you started:
+🛠 Core Technologies
+C# • Unity • Node.js • JavaScript • SQL • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Interests
+Software architecture and system design
+Simulation and strategy game development
+Procedural world generation
+AI and emergent behaviors
+
